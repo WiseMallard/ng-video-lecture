@@ -1,6 +1,10 @@
 Output with Tiktoken cl100k_base encoder
-Trained with batch size of 32 and block size of 32.
-Trained with GTX 960M 4GB VRAM
+
+Trained with: 
+batch size = 32 
+block size = 32
+
+Trained on GTX 960M 4GB VRAM
 --------------------------------------------------------------------------------------------------------------------------------
 ! These eyes shall be-killero lie.
 
