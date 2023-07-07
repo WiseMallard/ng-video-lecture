@@ -1,5 +1,5 @@
 # Changes done to this forked repository
-● Added Tiktoken library to **gpt.py** and used the **cl100k_base** encoder to tokenize the input text.
+● Added **Tiktoken** library to **gpt.py** and used the **cl100k_base** encoder to tokenize the input text.
 
 # **Original Read me text below**
 # nanogpt-lecture
